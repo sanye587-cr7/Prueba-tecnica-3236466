@@ -1,0 +1,90 @@
+fecha,tipo,descripcion,impacto_esperado
+2024-01-01,festivo,Dia festivo nacional,alto
+2024-01-08,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2024-01-08,festivo,Dia festivo nacional,alto
+2024-01-21,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-01-25,cierre_vial,Cierre parcial de calzada por obra,bajo
+2024-02-14,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-02-16,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2024-03-02,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-03-18,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-03-25,festivo,Dia festivo nacional,alto
+2024-03-28,festivo,Dia festivo nacional,alto
+2024-03-29,festivo,Dia festivo nacional,alto
+2024-04-15,cierre_vial,Cierre parcial de calzada por obra,bajo
+2024-04-16,cierre_vial,Cierre parcial de calzada por obra,bajo
+2024-04-27,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-05-01,festivo,Dia festivo nacional,alto
+2024-05-07,cierre_vial,Cierre parcial de calzada por obra,bajo
+2024-05-08,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-05-13,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2024-05-13,festivo,Dia festivo nacional,alto
+2024-05-22,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-05-27,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2024-06-03,festivo,Dia festivo nacional,alto
+2024-06-05,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-06-08,cierre_vial,Cierre parcial de calzada por obra,bajo
+2024-06-10,festivo,Dia festivo nacional,alto
+2024-06-17,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-06-29,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-07-01,festivo,Dia festivo nacional,alto
+2024-07-16,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-07-20,festivo,Dia festivo nacional,alto
+2024-08-07,festivo,Dia festivo nacional,alto
+2024-08-07,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-08-10,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2024-08-19,festivo,Dia festivo nacional,alto
+2024-08-19,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-08-23,paro_transporte,Bloqueo parcial del corredor por manifestacion,alto
+2024-08-26,paro_transporte,Bloqueo parcial del corredor por manifestacion,alto
+2024-09-08,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-09-19,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-09-20,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-09-22,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-09-25,cierre_vial,Cierre parcial de calzada por obra,bajo
+2024-09-26,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2024-09-30,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-10-06,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-10-11,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2024-10-14,festivo,Dia festivo nacional,alto
+2024-10-31,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2024-11-04,ajuste_tarifario,Incremento de tarifa plena de $2.950 a $3.200,alto
+2024-11-04,festivo,Dia festivo nacional,alto
+2024-11-11,festivo,Dia festivo nacional,alto
+2024-11-16,cierre_vial,Cierre parcial de calzada por obra,bajo
+2024-12-08,festivo,Dia festivo nacional,alto
+2024-12-11,cierre_vial,Cierre parcial de calzada por obra,bajo
+2024-12-14,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2024-12-21,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2024-12-25,festivo,Dia festivo nacional,alto
+2025-01-01,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2025-01-01,festivo,Dia festivo nacional,alto
+2025-01-06,festivo,Dia festivo nacional,alto
+2025-01-22,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-01-30,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2025-02-11,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-02-18,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-02-19,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-02-20,cierre_vial,Cierre parcial de calzada por obra,bajo
+2025-02-20,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-03-03,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-03-17,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-03-19,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-03-24,festivo,Dia festivo nacional,alto
+2025-04-04,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2025-04-06,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2025-04-12,evento_masivo,Partido en estadio cercano a Plaza Mayor,medio
+2025-04-17,festivo,Dia festivo nacional,alto
+2025-04-18,festivo,Dia festivo nacional,alto
+2025-04-22,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-05-01,festivo,Dia festivo nacional,alto
+2025-05-18,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-05-20,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-05-26,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-05-29,cierre_vial,Cierre parcial de calzada por obra,bajo
+2025-06-02,festivo,Dia festivo nacional,alto
+2025-06-11,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-06-23,festivo,Dia festivo nacional,alto
+2025-06-24,lluvia_fuerte,Precipitacion superior a 20 mm en 3 horas,medio
+2025-06-28,cierre_vial,Cierre parcial de calzada por obra,bajo
+2025-06-30,festivo,Dia festivo nacional,alto
